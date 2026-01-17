@@ -1,3 +1,7 @@
+
+# Estudos-Rush-00
+Estudos em grupo para a atividade do rush
+
 ##Estudos-Rush-00##
 
 Estudos em grupo para a atividade do Rush
@@ -12,3 +16,4 @@ Então vamos lá
 
 
 //char c -- armazena um caractere / c é a variável e pode ser qq letra
+
